@@ -1,0 +1,11 @@
+
+
+
+
+
+	<input type="hidden" value="0" id="totalNumTop"/>
+	<input type="hidden" value='0.00' id="allAmount"/>
+	<input type="hidden" id="originalFreight" value="0.00" />
+	<input type="hidden" id="discountFreight" value="0.00" />
+	<input type="hidden" id="discount" value="-0.00" />
+	<input type="hidden" id="totalAmount" value="0.00" />
